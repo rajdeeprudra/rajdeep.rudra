@@ -133,7 +133,7 @@ export default function Page() {
                     yOffset={8}
                     text={DATA.name}
                   />
-                  <p className="text-muted-foreground text-base -mt-1">Full stack AI Engineer · Building Agents · India</p>
+                  <p className="text-muted-foreground text-base -mt-1">Full stack web3 Engineer · Building Real-Time Systems · India</p>
                 </div>
               </div>
             </div>
@@ -162,7 +162,7 @@ export default function Page() {
                 </Link>
               </Button>
               <Button asChild variant="outline" size="default" className="rounded-full text-sm">
-                <Link href="https://www.cal.eu/shashankpoola/30min?overlayCalendar=true" target="_blank" rel="noopener noreferrer">
+                <Link href="https://cal.com/rajdeep-rudra/30min?overlayCalendar=true" target="_blank" rel="noopener noreferrer">
                   <Calendar className="mr-1 h-4 w-4" />
                   Book a Call
                 </Link>
@@ -251,7 +251,7 @@ export default function Page() {
           {/* GitHub Contributions */}
           <BlurFade delay={BLUR_FADE_DELAY * 7}>
             <div className="w-full">
-              <GitHubContributions username="shashank-poola" />
+              <GitHubContributions username="rajdeeprudra" />
             </div>
           </BlurFade>
         </section>

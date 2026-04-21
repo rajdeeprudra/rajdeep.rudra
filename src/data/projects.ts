@@ -2,34 +2,32 @@ import { LucideIcon } from "lucide-react";
 
 export const PROJECTS_DATA = [
   {
-    title: "TradeX",
-    href: "https://github.com/shashank-poola/exness-v3",
+    title: "Solana Wallet Tracker",
+    href: "https://github.com/rajdeeprudra/Wallet-Tracker",
     active: true,
     description:
-      "Real-time crypto trading platform using live Backpack market data, supporting leveraged long/short trades, slippage control, stop loss, and PnL tracking.",
+      "Real-time Solana wallet analytics dashboard that tracks Token Balances, Transaction History and live onchain activity ",
     technologies: [
       "Typescript",
       "ReactJs",
-      "Bun",
+      "NodeJS",
       "ExpressJS",
-      "Redis streams",
-      "Postgresql",
-      "Docker",
-      "MongoDb",
+      "WebSocket(ws)",
+      "Helius RPC API",
     ],
     links: [
       {
         type: "Website",
-        href: "https://tradex.foo",
+        href: "https://sol-wallet-tracker-beta.vercel.app",
         icon: "globe",
       },
       {
         type: "Github",
-        href: "https://github.com/shashank-poola/exness-v3",
+        href: "https://github.com/rajdeeprudra/Wallet-Tracker",
         icon: "github",
       },
     ],
-    image: "/projects/tradex.png",
+    image: "/projects/walletTracker.png",
     video: "",
   },
   {

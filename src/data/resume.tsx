@@ -3,7 +3,7 @@ import { HomeIcon } from "lucide-react";
 
 export const DATA = {
   name: "Rajdeep Rudra",
-  initials: "SP",
+  initials: "RR",
   url: "https://github.com/rajdeeprudra",
   location: "India",
   locationLink: "https://maps.app.goo.gl/LG8RdKDMCNtcBL1bA?g_st=aw", 

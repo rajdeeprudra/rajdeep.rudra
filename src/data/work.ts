@@ -1,5 +1,5 @@
 export const WORK_DATA = [
-  {
+  /*{
     company: "100xdevs",
     href: "https://100xdevs.com",
     badges: [],
@@ -10,7 +10,7 @@ export const WORK_DATA = [
     end: "Mar 2026",
     description:
       ""
-  },
+  },*/
   {
     company: "Freelance",
     //href: "https://shasha.ink",
@@ -21,6 +21,6 @@ export const WORK_DATA = [
     start: "Apr 2026",
     end: "Present",
     description:
-      "Led end-to-end development of a short selling platform, from system design to production deployment• Designed and built a full-stack system with Next.js, TypeScript, Bun, Express, Prisma, and PostgreSQL• Implemented secure authentication (MFA) and payment workflows via Razorpay• Developed scalable APIs and data models to support trading operations and future feature expansion• Improved application performance and asset delivery through optimized Cloudinary integration"
+      "•Led end-to-end development of a short selling platform, from system design to production deployment\n• Designed and built a full-stack system with Next.js, TypeScript, Bun, Express, Prisma, and PostgreSQL\n• Implemented secure authentication (MFA) and payment workflows via Razorpay\n• Developed scalable APIs and data models to support trading operations and future feature expansion\n• Improved application performance and asset delivery through optimized Cloudinary integration"
   }
 ] as const;
