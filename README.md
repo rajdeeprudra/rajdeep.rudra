@@ -1,4 +1,4 @@
-# Shashank Poola - Portfolio✨
+# Rajdeep Rudra - Portfolio✨
 
 Personal portfolio showcasing projects, experience, and writing.
 
