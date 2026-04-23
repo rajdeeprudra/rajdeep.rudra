@@ -2,7 +2,7 @@
 
 Personal portfolio showcasing projects, experience, and writing.
 
-**🔗Live:** [shasha.ink](https://shasha.ink)
+**🔗Live:** [shasha.ink](https://shasha.ink) here 
 
 ## Tech Stack
 
